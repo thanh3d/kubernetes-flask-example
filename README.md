@@ -24,11 +24,11 @@ You can use the images already pre-defined in the kubernetes manifest files or y
 Replace the realbtotharye with your Dockerhub repository
 
 ```
-docker build -t realbtotharye/flask-kubernetes-nginx nginx/
-docker push realbtotharye/flask-kubernetes-nginx
+docker build -t thanh3d/flask-kubernetes-nginx nginx/
+docker push thanh3d/flask-kubernetes-nginx
 
-docker build -t realbtotharye/flask-kubernetes-redis flask-redis/
-docker push realbtotharye/flask-kubernetes-redis
+docker build -t thanh3d/flask-kubernetes-redis flask-redis/
+docker push thanh3d/flask-kubernetes-redis
 ```
 
 ### Prerequisites
