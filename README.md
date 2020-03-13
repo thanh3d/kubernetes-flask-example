@@ -6,7 +6,7 @@ We will be using [Minikube](https://github.com/kubernetes/minikube) to install o
 
 Screenshot of App
 
-![screenshot](https://github.com/btotharye/kubernetes-flask-example/blob/master/screenshot.JPG)
+![screenshot](https://github.com/thanh3d/kubernetes-flask-example/blob/master/screenshot.JPG)
 
 
 The example consists of:
